@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DK-Kim4312
+- 👀 I’m interested in Full Stack Development and AI
+- 🌱 I’m currently learning C, AI scripting with Python, React, Next.js, and more
+- 💞️ I’m looking to collaborate on anything that interests me.
+- 📫 How to reach me https://www.linkedin.com/in/dk-kim4312/
